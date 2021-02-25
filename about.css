@@ -8,6 +8,7 @@ html {
     background-size: cover;
     color:#ffffff;
     padding: 100px;
+    cursor: url('images/rocket.png'),auto;
 
   }
 

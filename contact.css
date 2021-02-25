@@ -9,7 +9,7 @@ html {
     -o-background-size: cover;
     background-size: cover;
     color:#ffffff;
-
+    cursor: url('images/rocket.png'),auto;
   }
 
 body{
