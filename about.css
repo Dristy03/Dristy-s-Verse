@@ -7,10 +7,15 @@ html {
     -o-background-size: cover;
     background-size: cover;
     color:#ffffff;
-    padding: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 50px;
+   
     cursor: url('images/rocket.png'),auto;
 
   }
+
+ 
 
   * {
     box-sizing: border-box;
@@ -19,7 +24,7 @@ html {
  
  .image{
     display: flex; 
-    flex-direction: row; 
+    flex-direction: column; 
     width: 100%; 
  }
  
@@ -31,15 +36,21 @@ html {
 
   .writing{
     font-family: 'Akaya Telivigala';
-      margin-left: 200px;
-      margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
   }
 
   h1{
       color: #BF2E97;
+      margin-top: 50px;
    
   }
+
+
   .intro{
-color: darkgrey;
-    margin-top: 60px;
+   color: darkgrey;
+    margin-top: 50px;
   }
+
+  
+  
